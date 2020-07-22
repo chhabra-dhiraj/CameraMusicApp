@@ -15,6 +15,7 @@ buildscript {
         version_recycler_view_selection = '1.1.0-rc01'
         version_activity = '1.1.0'
         version_fragment = '1.2.5'
+        version_camerax = "1.0.0-beta07"
         version_arch = '2.1.0'
         version_junit = '4.13'
         version_junit_ext = '1.1.1'
