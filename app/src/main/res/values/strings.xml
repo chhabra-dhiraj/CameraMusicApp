@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">CameraMusicApp</string>
+    <string name="btn_bollywood_top_20_string">Bollywood Top 20</string>
+    <string name="btn_pick_sound_string">Pick Sound</string>
+    <string name="btn_cancel_string">Cancel</string>
+    <string name="et_search_box_hint">Search</string>
+    <string name="btn_open_music_library_string">Open Music Library</string>
+    <string name="btn_7_more_string">7 more</string>
+    <string name="btn_new_release_string">New Release</string>
+    <string name="btn_trending_string">Trending</string>
+    <string name="btn_featured_string">Featured</string>
+    <string name="btn_comedy_string">Comedy</string>
+    <string name="btn_challenge_string">#Challenge</string>
+    <string name="btn_hear_it_first_string">Hear It First</string>
 </resources>
