@@ -1,10 +1,11 @@
 package io.github.chhabra_dhiraj.cameramusicapp.ui.activities
 
 import android.Manifest
+import android.content.Intent
 import android.content.pm.PackageManager
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.camera.core.Camera
 import androidx.camera.core.CameraSelector
 import androidx.camera.core.Preview
@@ -29,6 +30,11 @@ class MainActivity : AppCompatActivity() {
         )
 
         binding.lifecycleOwner = this
+
+        binding.btnOpenMusicLibrary.setOnClickListener {
+            val intent = Intent(this, MusicLibraryActivity::class.java)
+            startActivity(intent)
+        }
 
         // Request camera permissions
         if (allPermissionsGranted()) {
