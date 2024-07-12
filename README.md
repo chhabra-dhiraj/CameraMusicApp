@@ -1,5 +1,5 @@
 # CameraMusicApp
-This App is a demo app for showcasing Camera implementation in Native Android. Also showcasing a complex UI implementation of a Music Library UI.
+This app is a demo for showcasing the implementation of a Camera in Native Android. It also features a complex UI for a Music Library, with the app structure following the MVVM architecture pattern.
 
 ## Screenshots -
 <table>
