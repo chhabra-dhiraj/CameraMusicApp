@@ -25,6 +25,6 @@ This App is a demo app for showcasing Camera implementation in Native Android. A
 ## Tech Stack
 <ul>
   <li>Native Android</li>
-  <li>XML</li>
   <li>Kotlin</li>
+  <li>XML</li>
 </ul>
