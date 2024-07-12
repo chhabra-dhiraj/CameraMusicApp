@@ -1,5 +1,5 @@
 # CameraMusicApp
-This App is a demo app for showcasing Camera and Music Library UI
+This App is a demo app for showcasing Camera and Sample Music Library UI
 
 ## Screenshots -
 <table>
