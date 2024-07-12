@@ -1,5 +1,5 @@
 # CameraMusicApp
-This App is a demo app for showcasing Camera and Sample Music Library UI
+This App is a demo app for showcasing Camera implementation in Native Android. Also showcasing a complex UI implementation of a Music Library UI.
 
 ## Screenshots -
 <table>
