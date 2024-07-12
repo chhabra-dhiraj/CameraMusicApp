@@ -24,6 +24,8 @@ This App is a demo app for showcasing Camera and Sample Music Library UI
 
 ## Tech Stack
 <ul>
+  <li>MVVM (Native Android)</li>
   <li>MVVM (Model-View-ViewModel)</li>
+  <li>MVVM (XML)</li>
   <li>Kotlin</li>
 </ul>
